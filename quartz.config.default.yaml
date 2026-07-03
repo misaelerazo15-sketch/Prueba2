@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: misaelerazo15-sketch.github.io/Prueba2
   ignorePatterns:
     - private
     - templates
