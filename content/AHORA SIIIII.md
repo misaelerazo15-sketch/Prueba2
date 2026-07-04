@@ -1,1 +1,0 @@
-![[Captura de pantalla 2026-03-23 100838.png]]
