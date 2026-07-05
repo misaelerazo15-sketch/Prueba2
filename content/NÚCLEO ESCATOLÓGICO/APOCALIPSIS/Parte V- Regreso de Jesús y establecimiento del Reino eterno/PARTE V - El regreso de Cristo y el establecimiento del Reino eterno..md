@@ -1,3 +1,0 @@
-#ParteAp 
-[[APOCALIPSIS ❤️‍🔥]].
-____
