@@ -1,9 +1,9 @@
 ## I. CONTEXTO, ESTRUCTURA, PANORAMA GENERAL Y LLAVES DEL LIBRO
 ### A. CONTEXTO:
-● **Nombre:** Habacuc, cuyo significado en hebreo es “abrazar”.
-● **Autor:** Habacuc, de quien no se da mayor información más que su rol como profeta en el reino de Judá.
-● **Fecha de escritura:** Habacuc profetizó aproximadamente cien años después de Isaías en el reino del sur de Judá, durante un tiempo en que la nación se había apartado del Señor (Hab.1:2-4).
-● **Introducción:** Habacuc se quejó con Dios por permitir que Judá continuara en un pecado tan grande sin intervenir (1:2-3). El Señor explicó que planeaba disciplinar a Judá usando a Babilonia (1:6, 12), lo que incluía tratar a Judá con violencia y llevarlos cautivos en 586 a.C. (1:9).
+- **Nombre:** Habacuc, cuyo significado en hebreo es “abrazar”.
+- **Autor:** Habacuc, de quien no se da mayor información más que su rol como profeta en el reino de Judá.
+- **Fecha de escritura:** Habacuc profetizó aproximadamente cien años después de Isaías en el reino del sur de Judá, durante un tiempo en que la nación se había apartado del Señor (Hab.1:2-4).
+- **Introducción:** Habacuc se quejó con Dios por permitir que Judá continuara en un pecado tan grande sin intervenir (1:2-3). El Señor explicó que planeaba disciplinar a Judá usando a Babilonia (1:6, 12), lo que incluía tratar a Judá con violencia y llevarlos cautivos en 586 a.C. (1:9).
 
 Habacuc se quejó de nuevo, preguntando por qué Dios eligió a una nación tan malvada como su instrumento para castigar a Judá (1:13).
 
